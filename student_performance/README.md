@@ -42,7 +42,7 @@ The project aims to answer the following questions:
 <ul>
 <li>Examined distributions of math, reading, and writing scores.</li>
 <li>Visualized categorical variables such as gender, ethnicity, parental education, lunch type, and test preparation completion.</li>
-<ul>
+</ul>
 <h3>5.2 Bivariate Analysis</h3>
 <ul>
 <li>Explored relationships between variables like test scores and demographic factors.</li>
